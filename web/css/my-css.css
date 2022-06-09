@@ -132,3 +132,7 @@ body {
     display: block;
     width: 100%;
   }
+  .grid-container {
+    display: grid;
+    grid-auto-rows: 150px;
+  }
